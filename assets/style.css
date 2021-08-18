@@ -1,0 +1,31 @@
+body, html {
+  background-color: #705B6E;
+}
+
+body #nav, html #nav {
+  background: #705B6E;
+}
+
+body #nav header, html #nav header {
+  text-transform: uppercase;
+  -webkit-text-decoration-color: #FFFFFF;
+          text-decoration-color: #FFFFFF;
+}
+
+body #nav ul, html #nav ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  list-style: none;
+}
+
+body #nav ul li, html #nav ul li {
+  padding: 20px;
+}
+
+main #bg {
+  background-color: #FFFFFF;
+  height: 100px;
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
